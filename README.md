@@ -5,4 +5,4 @@ This is a project I developed during the Hilti IT Competition. Its function is t
 I used an open source embedding model (all-mpnet-base-v2) from HuggingFace for simplicity and ease of use and stored the embeddings into a vector DB using Chroma. I also used a reranking model, "rerank-v3.5" by Cohere which allows me to evaluate and pass more relevant chunks of information to the LLM. I utilized google's generative AI model such as gemini-2.0-flash as the LLM, and finally, The user interface is created using gradio.
 
 # Sample Pictures
-![sample image](images/Screenshot%2025-05-13%101702.png)
+![sample image](images/Screenshot%202025-05-13%20101702.png)
