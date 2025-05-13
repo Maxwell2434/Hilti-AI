@@ -6,3 +6,6 @@ I used an open source embedding model (all-mpnet-base-v2) from HuggingFace for s
 
 # Sample Pictures
 ![sample image](images/Screenshot%202025-05-13%20101702.png)
+
+# Diagram Representation
+![sample image](images/Screenshot%202025-05-13%20113040.png)
